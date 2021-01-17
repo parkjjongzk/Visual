@@ -1,0 +1,781 @@
+날짜,Purchase ID,SN,Age,연령대,Gender,Item ID,Item Name,Price
+2019-04-01,0,Lisim78,20,20대,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-02-01,1,Lisovynya38,40,40대,Male,143,Frenzied Scimitar,1.56
+2019-08-01,2,Ithergue48,24,20대,Male,92,Final Critic,4.88
+2019-07-01,3,Chamassasya86,24,20대,Male,100,Blindscythe,3.27
+2019-10-01,4,Iskosia90,23,20대,Male,131,Fury,1.44
+2019-09-01,5,Yalae81,22,20대,Male,81,Dreamkiss,3.61
+2019-05-01,6,Itheria73,36,30대,Male,169,"Interrogator, Blood Blade of the Queen",2.18
+2019-07-01,7,Iskjaskst81,20,20대,Male,162,Abyssal Shard,2.67
+2019-02-01,8,Undjask33,22,20대,Male,21,Souleater,1.1
+2019-03-01,9,Chanosian48,35,30대,Female,136,Ghastly Adamantite Protector,3.58
+2019-07-01,10,Inguron55,23,20대,Male,95,Singed Onyx Warscythe,4.74
+2019-02-01,11,Haisrisuir60,23,20대,Male,162,Abyssal Shard,2.67
+2019-10-01,12,Saelaephos52,21,20대,Male,116,Renewed Skeletal Katana,4.18
+2019-03-01,13,Assjaskan73,22,20대,Male,4,Bloodlord's Fetish,1.7
+2019-02-01,14,Saesrideu94,35,30대,Male,165,Bone Crushing Silver Skewer,4.86
+2019-07-01,15,Lisassa64,21,20대,Female,98,"Deadline, Voice Of Subtlety",2.89
+2019-07-01,16,Lisirra25,20,20대,Male,40,Second Chance,2.52
+2019-05-01,17,Zontibe81,21,20대,Male,161,Devine,1.76
+2019-11-01,18,Reunasu60,22,20대,Female,82,Nirvana,4.9
+2019-03-01,19,Chamalo71,30,30대,Male,89,"Blazefury, Protector of Delusions",4.64
+2019-12-01,20,Iathenudil29,20,20대,Male,57,"Despair, Favor of Due Diligence",4.6
+2019-02-01,21,Phiarithdeu40,20,20대,Male,168,"Sun Strike, Jaws of Twisted Visions",1.48
+2019-07-01,22,Siarithria38,38,30대,Female,24,Warped Fetish,3.81
+2019-01-01,23,Eyrian71,40,40대,Male,151,Severance,3.4
+2019-06-01,24,Siala43,30,30대,Male,141,Persuasion,3.19
+2019-11-01,25,Lisirra87,29,20대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-06-01,26,Lirtossa84,11,소년,Male,71,Demise,1.61
+2019-06-01,27,Eusri44,7,소년,Male,96,Blood-Forged Skeletal Spine,3.09
+2019-06-01,28,Aela59,21,20대,Male,119,"Stormbringer, Dark Blade of Ending Misery",4.32
+2019-12-01,29,Tyida79,24,20대,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-03-01,30,Idai61,19,청소년,Male,140,Striker,2.94
+2019-04-01,31,Farusrian86,37,30대,Male,179,"Wolf, Promise of the Moonwalker",4.48
+2019-11-01,32,Aeralria27,10,소년,Male,133,Faith's Scimitar,4.09
+2019-07-01,33,Haillyrgue51,7,소년,Male,44,Bonecarvin Battle Axe,2.38
+2019-02-01,34,Sondim73,19,청소년,Male,160,Azurewrath,4.4
+2019-09-01,35,Jeyciman68,22,20대,Male,53,Vengeance Cleaver,2.05
+2019-02-01,36,Idaisuir85,30,30대,Male,76,Haunted Bronzed Bludgeon,3.15
+2019-11-01,37,Seuthep89,8,소년,Male,73,Ritual Mace,2.05
+2019-07-01,38,Reulae52,10,소년,Female,116,Renewed Skeletal Katana,4.18
+2019-08-01,39,Sondilsaya62,21,20대,Male,172,Blade of the Grave,3.14
+2019-09-01,40,Aerithriaphos45,20,20대,Male,143,Frenzied Scimitar,1.56
+2019-09-01,41,Assosia88,20,20대,Female,7,"Thorn, Satchel of Dark Souls",1.33
+2019-07-01,42,Aidaillodeu39,18,청소년,Male,72,Winter's Bite,3.77
+2019-05-01,43,Aelly27,24,20대,Male,116,Renewed Skeletal Katana,4.18
+2019-10-01,44,Tyeosri53,24,20대,Male,9,"Thorn, Conqueror of the Corrupted",2.73
+2019-07-01,45,Haerith37,23,20대,Male,181,Reaper's Toll,1.66
+2019-06-01,46,Yasrisu92,27,20대,Male,102,Avenger,3.44
+2019-08-01,47,Chanuchi25,20,20대,Male,170,Shadowsteel,3.97
+2019-06-01,48,Asur96,20,20대,Male,138,"Peacekeeper, Wit of Dark Magic",4.74
+2019-03-01,49,Iaralrgue74,33,30대,Male,110,Suspension,1.44
+2019-05-01,50,Saelaephos52,21,20대,Male,22,Amnesia,2.18
+2019-04-01,51,Chanosia34,22,20대,Male,15,Soul Infused Crystal,2.96
+2019-05-01,52,Aelin32,20,20대,Male,60,Wolf,3.54
+2019-05-01,53,Ilosianya35,32,30대,Male,176,Relentless Iron Skewer,2.84
+2019-08-01,54,Zhisrisu83,10,소년,Male,25,Hero Cane,4.35
+2019-02-01,55,Phaelap26,25,20대,Female,84,Arcane Gem,3.79
+2019-04-01,56,Raesty92,12,소년,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-02-01,57,Palyon91,21,20대,Male,80,Dreamsong,3.39
+2019-03-01,58,Tyisur83,23,20대,Male,152,Darkheart,1.74
+2019-01-01,59,Yaliru88,19,청소년,Male,105,Hailstorm Shadowsteel Scythe,3.03
+2019-05-01,60,Yadanu52,34,30대,Male,44,Bonecarvin Battle Axe,2.38
+2019-02-01,61,Jiskimya77,17,청소년,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-06-01,62,Yadaphos40,30,30대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-06-01,63,Alo38,20,20대,Male,125,Whistling Mithril Warblade,1
+2019-12-01,64,Phaena87,20,20대,Male,56,Foul Titanium Battle Axe,2.92
+2019-04-01,65,Chamirraya83,25,20대,Male,34,Retribution Axe,2.22
+2019-12-01,66,Chanastsda67,21,20대,Female,6,Rusty Skull,3.7
+2019-01-01,67,Lisim78,20,20대,Male,138,"Peacekeeper, Wit of Dark Magic",4.74
+2019-08-01,68,Indonmol95,15,청소년,Male,27,"Riddle, Tribute of Ended Dreams",3.3
+2019-01-01,69,Jiskossa61,24,20대,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-04-01,70,Pheodai94,29,20대,Male,143,Frenzied Scimitar,1.56
+2019-01-01,71,Hari50,20,20대,Female,29,"Chaos, Ender of the End",1.98
+2019-08-01,72,Marilsa69,25,20대,Female,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-04-01,73,Assistasda42,21,20대,Male,68,"Storm-Weaver, Slayer of Inception",4.32
+2019-04-01,74,Lisosia93,25,20대,Male,89,"Blazefury, Protector of Delusions",4.64
+2019-04-01,75,Philodil43,33,30대,Male,124,Venom Claymore,1.29
+2019-09-01,76,Mindadaran26,13,소년,Female,88,"Emberling, Defender of Delusions",3.75
+2019-09-01,77,Lirtosia63,34,30대,Male,20,Netherbane,3.27
+2019-07-01,78,Haillyrgue51,7,소년,Male,50,Dawn,4.6
+2019-11-01,79,Assjaskan56,26,20대,Male,15,Soul Infused Crystal,2.96
+2019-10-01,80,Irithlis29,23,20대,Male,165,Bone Crushing Silver Skewer,4.86
+2019-08-01,81,Heudai45,8,소년,Female,174,Primitive Blade,3.47
+2019-06-01,82,Haerithp41,16,청소년,Female,160,Azurewrath,4.4
+2019-03-01,83,Aina42,25,20대,Male,12,Dawne,1.02
+2019-10-01,84,Jiskjask60,21,20대,Female,34,Retribution Axe,2.22
+2019-02-01,85,Umolrian85,32,30대,Female,33,Curved Axe,1.16
+2019-01-01,86,Qarirwen82,33,30대,Male,129,"Fate, Vengeance of Eternal Justice",1.54
+2019-09-01,87,Aelin32,20,20대,Male,151,Severance,3.4
+2019-08-01,88,Laedallo55,30,30대,Male,82,Nirvana,4.9
+2019-03-01,89,Eoralrap26,22,20대,Male,17,"Lazarus, Terror of the Earth",1.7
+2019-09-01,90,Undosian34,21,20대,Male,60,Wolf,3.54
+2019-03-01,91,Chadolyla44,20,20대,Male,59,"Lightning, Etcher of the King",4.23
+2019-09-01,92,Chadistaya75,21,20대,Female,39,"Betrayal, Whisper of Grieving Widows",3.94
+2019-01-01,93,Yathedeu43,22,20대,Male,88,"Emberling, Defender of Delusions",3.75
+2019-01-01,94,Aina43,19,청소년,Male,96,Blood-Forged Skeletal Spine,3.09
+2019-11-01,95,Ilassast39,18,청소년,Male,164,Exiled Doomblade,1.63
+2019-08-01,96,Lisassala98,16,청소년,Male,56,Foul Titanium Battle Axe,2.92
+2019-12-01,97,Aiduecal76,20,20대,Male,134,Undead Crusader,4.5
+2019-04-01,98,Chadossa89,23,20대,Male,141,Persuasion,3.19
+2019-11-01,99,Haisrisuir60,23,20대,Male,101,Final Critic,4.19
+2019-07-01,100,Pheodaisun84,30,30대,Male,12,Dawne,1.02
+2019-06-01,101,Heollyriap59,21,20대,Male,174,Primitive Blade,3.47
+2019-03-01,102,Maropast28,24,20대,Male,109,"Downfall, Scalpel Of The Emperor",4.76
+2019-10-01,103,Frichim77,24,20대,Male,7,"Thorn, Satchel of Dark Souls",1.33
+2019-04-01,104,Thryallym62,24,20대,Male,53,Vengeance Cleaver,2.05
+2019-11-01,105,Eulanurin88,27,20대,Male,10,Sleepwalker,1.79
+2019-09-01,106,Lassjaskan73,22,20대,Male,54,Eternal Cleaver,2.5
+2019-09-01,107,Tyaerith73,36,30대,Male,99,"Expiration, Warscythe Of Lost Worlds",1.71
+2019-06-01,108,Sondadarya58,19,청소년,Male,85,Malificent Bag,1.75
+2019-12-01,109,Hirirap39,22,20대,Male,33,Curved Axe,1.16
+2019-06-01,110,Ririp86,25,20대,Male,139,"Mercy, Katana of Dismay",4.94
+2019-05-01,111,Sundim98,21,20대,Female,41,Orbit,4.75
+2019-10-01,112,Iskichinya81,21,20대,Female,7,"Thorn, Satchel of Dark Souls",1.33
+2019-05-01,113,Phyali88,15,청소년,Female,140,Striker,2.94
+2019-02-01,114,Undirrala66,22,20대,Male,150,Deathraze,2.85
+2019-05-01,115,Nitherian58,28,20대,Male,13,Serenity,1.41
+2019-08-01,116,Lassilsala30,21,20대,Male,139,"Mercy, Katana of Dismay",4.94
+2019-10-01,117,Frichaststa61,21,20대,Female,117,"Heartstriker, Legacy of the Light",1.79
+2019-11-01,118,Pheodaisun84,30,30대,Male,78,"Glimmer, Ender of the Moon",4.4
+2019-04-01,119,Frichosia58,15,청소년,Female,87,"Deluge, Edge of the West",4.43
+2019-01-01,120,Lisosia93,25,20대,Male,24,Warped Fetish,3.81
+2019-01-01,121,Ilosia37,23,20대,Male,1,Crucifer,3.26
+2019-07-01,122,Lisista27,16,청소년,Male,174,Primitive Blade,3.47
+2019-07-01,123,Seudaillorap38,27,20대,Male,81,Dreamkiss,3.61
+2019-09-01,124,Aesty53,21,20대,Male,150,Deathraze,2.85
+2019-08-01,125,Yathecal82,20,20대,Female,62,Piece Maker,1.87
+2019-09-01,126,Frichim77,24,20대,Male,75,Brutality Ivory Warmace,2.42
+2019-11-01,127,Lisossanya98,37,30대,Male,102,Avenger,3.44
+2019-06-01,128,Iral74,21,20대,Male,58,"Freak's Bite, Favor of Holy Might",4.14
+2019-11-01,129,Lisast87,19,청소년,Male,74,Yearning Crusher,4.18
+2019-12-01,130,Maridisya31,25,20대,Male,120,Agatha,3.08
+2019-04-01,131,Jiskassa76,22,20대,Male,62,Piece Maker,1.87
+2019-10-01,132,Inguron55,23,20대,Male,145,Fiery Glass Crusader,4.58
+2019-09-01,133,Phaena87,20,20대,Male,0,Splinter,1.28
+2019-03-01,134,Phyali88,15,청소년,Female,2,Verdict,2.48
+2019-01-01,135,Ethriel85,30,30대,Male,146,Warped Iron Scimitar,3.1
+2019-09-01,136,Iskirra45,22,20대,Male,105,Hailstorm Shadowsteel Scythe,3.03
+2019-03-01,137,Iri67,20,20대,Male,179,"Wolf, Promise of the Moonwalker",4.48
+2019-10-01,138,Rarallo90,33,30대,Male,136,Ghastly Adamantite Protector,3.58
+2019-12-01,139,Lisasi93,13,소년,Male,158,"Darkheart, Butcher of the Champion",2.45
+2019-06-01,140,Hari50,20,20대,Female,8,"Purgatory, Gem of Regret",3.93
+2019-08-01,141,Zhisrisu83,10,소년,Male,60,Wolf,3.54
+2019-12-01,142,Adastirin33,35,30대,Female,175,Woeful Adamantite Claymore,4.48
+2019-08-01,143,Eyista89,34,30대,Male,124,Venom Claymore,1.29
+2019-12-01,144,Ili43,18,청소년,Male,22,Amnesia,2.18
+2019-10-01,145,Chamirra53,23,20대,Male,46,Hopeless Ebon Dualblade,1.33
+2019-01-01,146,Aidaillodeu39,18,청소년,Male,133,Faith's Scimitar,4.09
+2019-04-01,147,Hailaphos89,35,30대,Male,24,Warped Fetish,3.81
+2019-02-01,148,Iskadarya95,20,20대,Male,148,"Warmonger, Gift of Suffering's End",4.03
+2019-09-01,149,Qilatista90,17,청소년,Male,161,Devine,1.76
+2019-05-01,150,Inasti31,17,청소년,Male,0,Splinter,1.28
+2019-10-01,151,Marilsanya48,25,20대,Male,105,Hailstorm Shadowsteel Scythe,3.03
+2019-11-01,152,Marjask87,20,20대,Male,110,Suspension,1.44
+2019-04-01,153,Chanjaskan89,21,20대,Male,164,Exiled Doomblade,1.63
+2019-12-01,154,Hyaduesu61,20,20대,Male,59,"Lightning, Etcher of the King",4.23
+2019-09-01,155,Aillyrin83,10,소년,Female,98,"Deadline, Voice Of Subtlety",2.89
+2019-12-01,156,Eyrian71,40,40대,Male,117,"Heartstriker, Legacy of the Light",1.79
+2019-04-01,157,Marast30,18,청소년,Female,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-01-01,158,Sundadar27,31,30대,Male,111,Misery's End,4.89
+2019-04-01,159,Tyaelorap29,25,20대,Male,39,"Betrayal, Whisper of Grieving Widows",3.94
+2019-11-01,160,Lirtimst73,24,20대,Male,44,Bonecarvin Battle Axe,2.38
+2019-01-01,161,Iri67,20,20대,Male,3,Phantomlight,2.49
+2019-03-01,162,Styaduen40,17,청소년,Male,181,Reaper's Toll,1.66
+2019-06-01,163,Sidap51,11,소년,Male,65,Conqueror Adamantite Mace,4.24
+2019-02-01,164,Chanastst38,22,20대,Male,96,Blood-Forged Skeletal Spine,3.09
+2019-12-01,165,Lirtassa52,15,청소년,Male,183,Dragon's Greatsword,1.09
+2019-02-01,166,Sondim68,22,20대,Female,30,Stormcaller,2.21
+2019-06-01,167,Aeral97,23,20대,Male,157,"Spada, Etcher of Hatred",4.8
+2019-03-01,168,Iskjaskst81,20,20대,Male,85,Malificent Bag,1.75
+2019-02-01,169,Heosurnuru52,16,청소년,Female,123,Twilight's Carver,2.28
+2019-06-01,170,Lisopela58,22,20대,Male,75,Brutality Ivory Warmace,2.42
+2019-11-01,171,Caesrinusuir82,30,30대,Male,102,Avenger,3.44
+2019-12-01,172,Tyirinu79,21,20대,Male,65,Conqueror Adamantite Mace,4.24
+2019-12-01,173,Fironon91,30,30대,Male,5,Putrid Fan,4.08
+2019-06-01,174,Lassjask63,30,30대,Male,144,Blood Infused Guardian,1.94
+2019-04-01,175,Indcil77,17,청소년,Male,103,Singed Scalpel,4.35
+2019-09-01,176,Chamimla73,17,청소년,Male,157,"Spada, Etcher of Hatred",4.8
+2019-12-01,177,Syathe73,30,30대,Female,135,Warped Diamond Crusader,1.4
+2019-01-01,178,Baelollodeu94,20,20대,Female,57,"Despair, Favor of Due Diligence",4.6
+2019-05-01,179,Mindista32,24,20대,Male,59,"Lightning, Etcher of the King",4.23
+2019-09-01,180,Saena74,24,20대,Male,95,Singed Onyx Warscythe,4.74
+2019-06-01,181,Marirrasta50,16,청소년,Male,51,Endbringer,4.66
+2019-10-01,182,Lamil79,38,30대,Male,154,Feral Katana,4.4
+2019-10-01,183,Aenarap34,21,20대,Male,15,Soul Infused Crystal,2.96
+2019-12-01,184,Aisur51,28,20대,Male,32,Orenmir,1.14
+2019-04-01,185,Thrientossa55,20,20대,Male,150,Deathraze,2.85
+2019-05-01,186,Chadista79,30,30대,Male,77,"Piety, Guardian of Riddles",4
+2019-10-01,187,Tyeurith29,8,소년,Male,11,Brimstone,3.65
+2019-03-01,188,Malunil62,18,청소년,Male,88,"Emberling, Defender of Delusions",3.75
+2019-10-01,189,Hiasri33,23,20대,Male,63,Stormfury Mace,4.99
+2019-06-01,190,Lisadar44,27,20대,Male,69,"Frenzy, Defender of the Harvest",1.98
+2019-08-01,191,Frichjask31,23,20대,Male,87,"Deluge, Edge of the West",4.43
+2019-02-01,192,Lisjaskya84,25,20대,Male,98,"Deadline, Voice Of Subtlety",2.89
+2019-06-01,193,Ristydru66,27,20대,Male,62,Piece Maker,1.87
+2019-05-01,194,Frichast28,20,20대,Male,73,Ritual Mace,2.05
+2019-02-01,195,Minduri31,39,30대,Male,113,Solitude's Reaver,4.07
+2019-04-01,196,Maradaran90,35,30대,Female,9,"Thorn, Conqueror of the Corrupted",2.73
+2019-03-01,197,Mindetosya30,24,20대,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-02-01,198,Chadolyla44,20,20대,Male,153,Mercenary Sabre,3.74
+2019-04-01,199,Ialallo29,15,청소년,Female,138,"Peacekeeper, Wit of Dark Magic",4.74
+2019-01-01,200,Pheusrical25,23,20대,Male,114,Yearning Mageblade,3.82
+2019-03-01,201,Chanosia60,31,30대,Male,2,Verdict,2.48
+2019-07-01,202,Phistym51,37,30대,Male,82,Nirvana,4.9
+2019-06-01,203,Aelollo59,33,30대,Male,3,Phantomlight,2.49
+2019-03-01,204,Chamimla85,16,청소년,Male,0,Splinter,1.28
+2019-09-01,205,Jiskimya77,17,청소년,Male,149,"Tranquility, Razor of Black Magic",1.75
+2019-05-01,206,Haisurra41,20,20대,Female,78,"Glimmer, Ender of the Moon",4.4
+2019-05-01,207,Sondastsda82,24,20대,Male,145,Fiery Glass Crusader,4.58
+2019-12-01,208,Qilanrion65,37,30대,Male,105,Hailstorm Shadowsteel Scythe,3.03
+2019-01-01,209,Eulasuir89,22,20대,Male,162,Abyssal Shard,2.67
+2019-04-01,210,Umolrian85,32,30대,Female,136,Ghastly Adamantite Protector,3.58
+2019-07-01,211,Eosrirgue62,17,청소년,Male,120,Agatha,3.08
+2019-05-01,212,Shaidanu32,23,20대,Male,159,"Oathbreaker, Spellblade of Trials",3.08
+2019-04-01,213,Lirtastan49,29,20대,Male,2,Verdict,2.48
+2019-06-01,214,Iaralsuir44,23,20대,Male,137,"Aetherius, Boon of the Blessed",3.39
+2019-10-01,215,Ialallo29,15,청소년,Female,40,Second Chance,2.52
+2019-08-01,216,Tyeudariasuir90,21,20대,Male,136,Ghastly Adamantite Protector,3.58
+2019-09-01,217,Cosadar58,38,30대,Male,25,Hero Cane,4.35
+2019-07-01,218,Aelastirin39,23,20대,Male,76,Haunted Bronzed Bludgeon,3.15
+2019-09-01,219,Aidai53,19,청소년,Male,57,"Despair, Favor of Due Diligence",4.6
+2019-10-01,220,Jiskjask85,40,40대,Male,46,Hopeless Ebon Dualblade,1.33
+2019-09-01,221,Ealrion88,30,30대,Male,175,Woeful Adamantite Claymore,4.48
+2019-09-01,222,Chamjask73,22,20대,Female,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-04-01,223,Undirrala66,22,20대,Male,142,Righteous Might,2.62
+2019-01-01,224,Lisosia93,25,20대,Male,157,"Spada, Etcher of Hatred",4.8
+2019-01-01,225,Tyaenasti87,24,20대,Female,154,Feral Katana,4.4
+2019-07-01,226,Alim85,25,20대,Male,54,Eternal Cleaver,2.5
+2019-04-01,227,Haeladil46,18,청소년,Male,24,Warped Fetish,3.81
+2019-11-01,228,Jiskirran77,20,20대,Female,80,Dreamsong,3.39
+2019-06-01,229,Undosia27,17,청소년,Male,72,Winter's Bite,3.77
+2019-01-01,230,Peorith44,24,20대,Male,102,Avenger,3.44
+2019-01-01,231,Yarithsurgue62,26,20대,Male,139,"Mercy, Katana of Dismay",4.94
+2019-01-01,232,Sundadar27,31,30대,Male,114,Yearning Mageblade,3.82
+2019-02-01,233,Taeduenu92,19,청소년,Female,66,Victor Iron Spikes,4.4
+2019-07-01,234,Chamimla85,16,청소년,Male,97,"Swan Song, Gouger Of Terror",2.5
+2019-05-01,235,Rairin89,24,20대,Male,163,Thunderfury Scimitar,3.45
+2019-11-01,236,Aerithriaphos46,16,청소년,Male,107,"Splitter, Foe Of Subtlety",2.18
+2019-01-01,237,Idairin51,20,20대,Female,16,Restored Bauble,3.55
+2019-11-01,238,Lisista54,21,20대,Male,42,The Decapitator,1.75
+2019-07-01,239,Eodailis27,30,30대,Male,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-11-01,240,Lirtastsda29,16,청소년,Male,82,Nirvana,4.9
+2019-12-01,241,Undilsan50,22,20대,Male,10,Sleepwalker,1.79
+2019-11-01,242,Eodaisu60,16,청소년,Female,39,"Betrayal, Whisper of Grieving Widows",3.94
+2019-04-01,243,Quaranmol58,24,20대,Male,83,Lifebender,3.33
+2019-10-01,244,Lirtossa60,24,20대,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-02-01,245,Lisim78,20,20대,Male,85,Malificent Bag,1.75
+2019-03-01,246,Lirtilsa71,24,20대,Male,139,"Mercy, Katana of Dismay",4.94
+2019-09-01,247,Iskadarya95,20,20대,Male,82,Nirvana,4.9
+2019-09-01,248,Isursuir31,44,40대,Male,137,"Aetherius, Boon of the Blessed",3.39
+2019-10-01,249,Sundirrala66,20,20대,Male,16,Restored Bauble,3.55
+2019-08-01,250,Saerallora71,23,20대,Male,87,"Deluge, Edge of the West",4.43
+2019-12-01,251,Iasur80,22,20대,Male,23,Crucifer,1.99
+2019-10-01,252,Tyaelo67,39,30대,Male,92,Final Critic,4.88
+2019-04-01,253,Aesty53,21,20대,Male,28,"Flux, Destroyer of Due Diligence",1.06
+2019-04-01,254,Quanunwen42,23,20대,Female,94,Mourning Blade,3.49
+2019-02-01,255,Sondastsda82,24,20대,Male,71,Demise,1.61
+2019-10-01,256,Chamirra53,23,20대,Male,182,Toothpick,4.03
+2019-12-01,257,Yasur35,26,20대,Male,175,Woeful Adamantite Claymore,4.48
+2019-07-01,258,Assehoan67,26,20대,Male,149,"Tranquility, Razor of Black Magic",1.75
+2019-11-01,259,Haellysu29,20,20대,Male,72,Winter's Bite,3.77
+2019-08-01,260,Saida58,16,청소년,Male,70,Hope's End,1.03
+2019-08-01,261,Tyeosri53,24,20대,Male,141,Persuasion,3.19
+2019-03-01,262,Chamadar79,15,청소년,Male,172,Blade of the Grave,3.14
+2019-03-01,263,Aeral43,24,20대,Male,78,"Glimmer, Ender of the Moon",4.4
+2019-12-01,264,Saesrideu94,35,30대,Male,119,"Stormbringer, Dark Blade of Ending Misery",4.32
+2019-08-01,265,Lirtirra37,25,20대,Male,172,Blade of the Grave,3.14
+2019-02-01,266,Siala43,30,30대,Male,113,Solitude's Reaver,4.07
+2019-04-01,267,Tyidaim51,16,청소년,Female,41,Orbit,4.75
+2019-08-01,268,Inasti31,17,청소년,Male,71,Demise,1.61
+2019-11-01,269,Lassassast73,15,청소년,Male,18,"Torchlight, Bond of Storms",4.65
+2019-04-01,270,Assassasta79,38,30대,Male,85,Malificent Bag,1.75
+2019-07-01,271,Heollyra92,22,20대,Male,166,Thirsty Iron Reaver,3.07
+2019-03-01,272,Anallorgue57,8,소년,Male,133,Faith's Scimitar,4.09
+2019-12-01,273,Phyali88,15,청소년,Female,92,Final Critic,4.88
+2019-05-01,274,Aerithllora36,29,20대,Female,82,Nirvana,4.9
+2019-04-01,275,Smaistysu35,30,30대,Male,173,Stormfury Longsword,4.93
+2019-01-01,276,Tyidaim51,16,청소년,Female,9,"Thorn, Conqueror of the Corrupted",2.73
+2019-01-01,277,Ennalmol65,24,20대,Male,92,Final Critic,4.88
+2019-08-01,278,Iskichinya81,21,20대,Female,167,"Malice, Legacy of the Queen",3.61
+2019-04-01,279,Yarithrgue83,20,20대,Male,163,Thunderfury Scimitar,3.45
+2019-11-01,280,Yana46,20,20대,Female,16,Restored Bauble,3.55
+2019-11-01,281,Sondimla25,19,청소년,Male,68,"Storm-Weaver, Slayer of Inception",4.32
+2019-07-01,282,Aidai61,21,20대,Male,155,War-Forged Gold Deflector,1.01
+2019-09-01,283,Wailin72,21,20대,Female,9,"Thorn, Conqueror of the Corrupted",2.73
+2019-05-01,284,Firan91,24,20대,Male,128,"Blazeguard, Reach of Eternity",4.91
+2019-09-01,285,Alaesu91,26,20대,Male,163,Thunderfury Scimitar,3.45
+2019-09-01,286,Aellynun67,25,20대,Male,153,Mercenary Sabre,3.74
+2019-07-01,287,Rilaera56,20,20대,Male,5,Putrid Fan,4.08
+2019-06-01,288,Eulaestira36,18,청소년,Male,156,Soul-Forged Steel Shortsword,1.77
+2019-01-01,289,Marim28,25,20대,Female,83,Lifebender,3.33
+2019-01-01,290,Idastidru52,24,20대,Male,147,"Hellreaver, Heirloom of Inception",4.93
+2019-07-01,291,Idairin51,20,20대,Female,35,Heartless Bone Dualblade,3.45
+2019-07-01,292,Lisasi93,13,소년,Male,70,Hope's End,1.03
+2019-06-01,293,Lisopela58,22,20대,Male,117,"Heartstriker, Legacy of the Light",1.79
+2019-02-01,294,Ilirrasda54,37,30대,Male,171,Scalpel,1.79
+2019-04-01,295,Alaephos75,23,20대,Male,52,Hatred,4.84
+2019-11-01,296,Syalollorap93,22,20대,Female,65,Conqueror Adamantite Mace,4.24
+2019-02-01,297,Heosurnuru52,16,청소년,Female,169,"Interrogator, Blood Blade of the Queen",2.18
+2019-05-01,298,Minduli80,25,20대,Male,110,Suspension,1.44
+2019-01-01,299,Lirtossa84,11,소년,Male,164,Exiled Doomblade,1.63
+2019-03-01,300,Chanastya70,22,20대,Male,136,Ghastly Adamantite Protector,3.58
+2019-01-01,301,Frichadaran88,25,20대,Male,106,Crying Steel Sickle,3.41
+2019-08-01,302,Siallylis44,20,20대,Male,4,Bloodlord's Fetish,1.7
+2019-10-01,303,Aeri84,24,20대,Male,71,Demise,1.61
+2019-05-01,304,Iasursti71,24,20대,Male,181,Reaper's Toll,1.66
+2019-06-01,305,Siallylis44,20,20대,Male,179,"Wolf, Promise of the Moonwalker",4.48
+2019-07-01,306,Mindilsa34,24,20대,Female,38,"The Void, Vengeance of Dark Magic",2.37
+2019-04-01,307,Chamastya76,34,30대,Male,53,Vengeance Cleaver,2.05
+2019-02-01,308,Undirra73,34,30대,Male,98,"Deadline, Voice Of Subtlety",2.89
+2019-09-01,309,Aestysu37,25,20대,Male,170,Shadowsteel,3.97
+2019-08-01,310,Chadadarla74,30,30대,Male,117,"Heartstriker, Legacy of the Light",1.79
+2019-02-01,311,Anallorgue57,8,소년,Male,71,Demise,1.61
+2019-02-01,312,Strithenu87,20,20대,Male,147,"Hellreaver, Heirloom of Inception",4.93
+2019-10-01,313,Iasrira89,23,20대,Male,182,Toothpick,4.03
+2019-05-01,314,Ialidru40,24,20대,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-09-01,315,Tyisur83,23,20대,Male,107,"Splitter, Foe Of Subtlety",2.18
+2019-01-01,316,Tyalaesu89,25,20대,Male,15,Soul Infused Crystal,2.96
+2019-10-01,317,Tyidainu31,18,청소년,Female,3,Phantomlight,2.49
+2019-01-01,318,Iskadarya95,20,20대,Male,91,Celeste,4.17
+2019-09-01,319,Rarallo90,33,30대,Male,144,Blood Infused Guardian,1.94
+2019-06-01,320,Lirtilsa72,24,20대,Male,77,"Piety, Guardian of Riddles",4
+2019-03-01,321,Undjaskla97,33,30대,Male,118,"Ghost Reaver, Longsword of Magic",2.17
+2019-08-01,322,Saedaiphos46,18,청소년,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-06-01,323,Tyisur83,23,20대,Male,131,Fury,1.44
+2019-07-01,324,Aerithnucal56,15,청소년,Male,154,Feral Katana,4.4
+2019-12-01,325,Hiasri33,23,20대,Male,54,Eternal Cleaver,2.5
+2019-06-01,326,Lisossa46,25,20대,Male,54,Eternal Cleaver,2.5
+2019-04-01,327,Layjask75,22,20대,Female,17,"Lazarus, Terror of the Earth",1.7
+2019-07-01,328,Lisista63,17,청소년,Male,152,Darkheart,1.74
+2019-02-01,329,Ceoral34,20,20대,Male,145,Fiery Glass Crusader,4.58
+2019-08-01,330,Hilaerin92,23,20대,Male,167,"Malice, Legacy of the Queen",3.61
+2019-02-01,331,Chadilsasta32,23,20대,Male,7,"Thorn, Satchel of Dark Souls",1.33
+2019-09-01,332,Undassa89,25,20대,Male,161,Devine,1.76
+2019-01-01,333,Iduenu77,17,청소년,Female,114,Yearning Mageblade,3.82
+2019-02-01,334,Lisosia66,21,20대,Male,11,Brimstone,3.65
+2019-03-01,335,Undimsya85,33,30대,Male,67,"Celeste, Incarnation of the Corrupted",3.46
+2019-03-01,336,Phaedue89,22,20대,Female,45,Glinting Glass Edge,3.85
+2019-12-01,337,Yadacal26,15,청소년,Male,17,"Lazarus, Terror of the Earth",1.7
+2019-08-01,338,Lisossa25,22,20대,Male,13,Serenity,1.41
+2019-04-01,339,Ilmol66,8,소년,Female,124,Venom Claymore,1.29
+2019-12-01,340,Yastyriaphos75,22,20대,Male,41,Orbit,4.75
+2019-09-01,341,Hiasurria41,41,40대,Male,71,Demise,1.61
+2019-04-01,342,Palatyon26,21,20대,Male,38,"The Void, Vengeance of Dark Magic",2.37
+2019-07-01,343,Chadilsasta32,23,20대,Male,49,"The Oculus, Token of Lost Worlds",2.96
+2019-05-01,344,Qilalista41,23,20대,Male,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-01-01,345,Hada39,19,청소년,Male,2,Verdict,2.48
+2019-06-01,346,Saedaiphos46,18,청소년,Male,121,Massacre,1.6
+2019-06-01,347,Chamilsala65,23,20대,Female,11,Brimstone,3.65
+2019-12-01,348,Eulaestira36,18,청소년,Male,38,"The Void, Vengeance of Dark Magic",2.37
+2019-01-01,349,Sundirrala66,20,20대,Male,59,"Lightning, Etcher of the King",4.23
+2019-07-01,350,Rairith81,15,청소년,Female,34,Retribution Axe,2.22
+2019-09-01,351,Assistasda42,21,20대,Male,121,Massacre,1.6
+2019-04-01,352,Ilarin91,22,20대,Male,79,"Alpha, Oath of Zeal",4.05
+2019-04-01,353,Ryanara76,25,20대,Male,174,Primitive Blade,3.47
+2019-05-01,354,Undista85,21,20대,Male,163,Thunderfury Scimitar,3.45
+2019-01-01,355,Tyeoralru41,15,청소년,Male,140,Striker,2.94
+2019-01-01,356,Pheosrinudeu70,20,20대,Male,138,"Peacekeeper, Wit of Dark Magic",4.74
+2019-08-01,357,Heuli25,23,20대,Female,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-06-01,358,Pheutherin27,24,20대,Male,74,Yearning Crusher,4.18
+2019-08-01,359,Chadirra90,18,청소년,Male,73,Ritual Mace,2.05
+2019-10-01,360,Ali84,29,20대,Male,14,Possessed Core,2.61
+2019-04-01,361,Frichjaskan98,25,20대,Male,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-06-01,362,Malil90,22,20대,Male,107,"Splitter, Foe Of Subtlety",2.18
+2019-05-01,363,Aina42,25,20대,Male,45,Glinting Glass Edge,3.85
+2019-12-01,364,Yarithllodeu72,22,20대,Male,88,"Emberling, Defender of Delusions",3.75
+2019-08-01,365,Tyaedainu44,25,20대,Male,43,Foul Edge,3.54
+2019-05-01,366,Hirirap39,22,20대,Male,31,Trickster,1.55
+2019-10-01,367,Eodailis27,30,30대,Male,138,"Peacekeeper, Wit of Dark Magic",4.74
+2019-12-01,368,Ethron58,20,20대,Male,3,Phantomlight,2.49
+2019-06-01,369,Heuli25,23,20대,Female,137,"Aetherius, Boon of the Blessed",3.39
+2019-03-01,370,Idai61,19,청소년,Male,45,Glinting Glass Edge,3.85
+2019-12-01,371,Eusurdeu49,23,20대,Male,155,War-Forged Gold Deflector,1.01
+2019-12-01,372,Saistyphos30,35,30대,Male,64,Fusion Pummel,4.82
+2019-05-01,373,Aina42,25,20대,Male,103,Singed Scalpel,4.35
+2019-06-01,374,Saisrilis27,16,청소년,Male,85,Malificent Bag,1.75
+2019-04-01,375,Hallysucal81,25,20대,Male,181,Reaper's Toll,1.66
+2019-03-01,376,Ilimya66,33,30대,Male,59,"Lightning, Etcher of the King",4.23
+2019-09-01,377,Raysistast71,20,20대,Male,11,Brimstone,3.65
+2019-09-01,378,Haedairiadru51,23,20대,Male,96,Blood-Forged Skeletal Spine,3.09
+2019-09-01,379,Tyananurgue44,18,청소년,Male,100,Blindscythe,3.27
+2019-03-01,380,Risty84,25,20대,Male,50,Dawn,4.6
+2019-01-01,381,Aerillorin70,16,청소년,Male,83,Lifebender,3.33
+2019-12-01,382,Phistyn52,24,20대,Male,164,Exiled Doomblade,1.63
+2019-09-01,383,Yalo85,34,30대,Male,11,Brimstone,3.65
+2019-02-01,384,Chamirrasya33,21,20대,Female,110,Suspension,1.44
+2019-02-01,385,Hiral75,22,20대,Male,29,"Chaos, Ender of the End",1.98
+2019-08-01,386,Isursti83,21,20대,Male,129,"Fate, Vengeance of Eternal Justice",1.54
+2019-04-01,387,Bartassaya73,26,20대,Male,39,"Betrayal, Whisper of Grieving Widows",3.94
+2019-11-01,388,Aeda94,17,청소년,Male,128,"Blazeguard, Reach of Eternity",4.91
+2019-10-01,389,Quinarap53,15,청소년,Male,157,"Spada, Etcher of Hatred",4.8
+2019-12-01,390,Asur53,26,20대,Male,75,Brutality Ivory Warmace,2.42
+2019-04-01,391,Alarap40,18,청소년,Male,20,Netherbane,3.27
+2019-03-01,392,Sida61,20,20대,Female,181,Reaper's Toll,1.66
+2019-07-01,393,Hiarideu73,20,20대,Male,54,Eternal Cleaver,2.5
+2019-07-01,394,Lassassasda30,12,소년,Male,60,Wolf,3.54
+2019-08-01,395,Ennoncil86,17,청소년,Male,152,Darkheart,1.74
+2019-04-01,396,Siralsudeu54,20,20대,Male,131,Fury,1.44
+2019-08-01,397,Eusri26,25,20대,Male,100,Blindscythe,3.27
+2019-03-01,398,Ardcil81,34,30대,Male,96,Blood-Forged Skeletal Spine,3.09
+2019-08-01,399,Marilsasya33,19,청소년,Male,143,Frenzied Scimitar,1.56
+2019-05-01,400,Ilarin91,22,20대,Male,72,Winter's Bite,3.77
+2019-08-01,401,Lirtim36,15,청소년,Female,46,Hopeless Ebon Dualblade,1.33
+2019-06-01,402,Heunadil74,23,20대,Female,129,"Fate, Vengeance of Eternal Justice",1.54
+2019-05-01,403,Frichadar89,24,20대,Male,162,Abyssal Shard,2.67
+2019-01-01,404,Chamirrasya33,21,20대,Female,71,Demise,1.61
+2019-03-01,405,Aesurstilis64,25,20대,Male,70,Hope's End,1.03
+2019-10-01,406,Idaidil28,15,청소년,Male,100,Blindscythe,3.27
+2019-06-01,407,Idai61,19,청소년,Male,131,Fury,1.44
+2019-09-01,408,Raesty92,12,소년,Male,53,Vengeance Cleaver,2.05
+2019-09-01,409,Lisotesta51,15,청소년,Female,144,Blood Infused Guardian,1.94
+2019-07-01,410,Strithenu87,20,20대,Male,99,"Expiration, Warscythe Of Lost Worlds",1.71
+2019-07-01,411,Lisico81,10,소년,Male,101,Final Critic,4.19
+2019-09-01,412,Lisiriya82,32,30대,Male,86,Stormfury Lantern,2.27
+2019-08-01,413,Siana77,12,소년,Male,93,Apocalyptic Battlescythe,1.97
+2019-05-01,414,Marokian45,23,20대,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-02-01,415,Sausosia74,22,20대,Male,120,Agatha,3.08
+2019-11-01,416,Aestysu37,25,20대,Male,13,Serenity,1.41
+2019-03-01,417,Pheodaisun84,30,30대,Male,98,"Deadline, Voice Of Subtlety",2.89
+2019-01-01,418,Marim28,25,20대,Female,125,Whistling Mithril Warblade,1
+2019-04-01,419,Iaralrgue74,33,30대,Male,171,Scalpel,1.79
+2019-11-01,420,Assesi91,23,20대,Male,129,"Fate, Vengeance of Eternal Justice",1.54
+2019-02-01,421,Yadaphos40,30,30대,Male,26,Unholy Wand,1.12
+2019-09-01,422,Eusri70,24,20대,Female,154,Feral Katana,4.4
+2019-07-01,423,Aisurria69,24,20대,Male,10,Sleepwalker,1.79
+2019-07-01,424,Iarilis73,10,소년,Male,149,"Tranquility, Razor of Black Magic",1.75
+2019-11-01,425,Raisty38,15,청소년,Male,20,Netherbane,3.27
+2019-02-01,426,Ilista82,23,20대,Male,32,Orenmir,1.14
+2019-01-01,427,Leyirra83,24,20대,Female,170,Shadowsteel,3.97
+2019-08-01,428,Aelly27,24,20대,Male,14,Possessed Core,2.61
+2019-01-01,429,Aiduesu86,22,20대,Female,179,"Wolf, Promise of the Moonwalker",4.48
+2019-04-01,430,Frichynde86,15,청소년,Male,164,Exiled Doomblade,1.63
+2019-05-01,431,Aelollo59,33,30대,Male,172,Blade of the Grave,3.14
+2019-04-01,432,Hisridru55,18,청소년,Male,120,Agatha,3.08
+2019-09-01,433,Chamossa77,21,20대,Male,156,Soul-Forged Steel Shortsword,1.77
+2019-04-01,434,Irillo49,20,20대,Male,84,Arcane Gem,3.79
+2019-01-01,435,Lirtastsya71,21,20대,Male,93,Apocalyptic Battlescythe,1.97
+2019-01-01,436,Umolrian85,32,30대,Female,80,Dreamsong,3.39
+2019-07-01,437,Frichosiala98,24,20대,Female,43,Foul Edge,3.54
+2019-10-01,438,Qilunan34,23,20대,Male,145,Fiery Glass Crusader,4.58
+2019-05-01,439,Quarrion42,22,20대,Male,59,"Lightning, Etcher of the King",4.23
+2019-03-01,440,Aisurdru79,29,20대,Female,75,Brutality Ivory Warmace,2.42
+2019-02-01,441,Hiaral50,15,청소년,Male,156,Soul-Forged Steel Shortsword,1.77
+2019-12-01,442,Zontibe81,21,20대,Male,84,Arcane Gem,3.79
+2019-05-01,443,Iarallo65,26,20대,Male,149,"Tranquility, Razor of Black Magic",1.75
+2019-04-01,444,Sondassasya91,21,20대,Female,24,Warped Fetish,3.81
+2019-01-01,445,Phaelap26,25,20대,Female,150,Deathraze,2.85
+2019-02-01,446,Chanossast57,7,소년,Female,119,"Stormbringer, Dark Blade of Ending Misery",4.32
+2019-09-01,447,Yalae81,22,20대,Male,120,Agatha,3.08
+2019-07-01,448,Chanjask65,18,청소년,Female,68,"Storm-Weaver, Slayer of Inception",4.32
+2019-03-01,449,Ethralista69,13,소년,Male,34,Retribution Axe,2.22
+2019-11-01,450,Sondistanya61,18,청소년,Female,35,Heartless Bone Dualblade,3.45
+2019-09-01,451,Eudanu32,15,청소년,Female,122,Unending Tyranny,2.85
+2019-06-01,452,Marilsasya33,19,청소년,Male,32,Orenmir,1.14
+2019-12-01,453,Euthe35,24,20대,Male,70,Hope's End,1.03
+2019-10-01,454,Lassimla92,25,20대,Male,1,Crucifer,3.26
+2019-04-01,455,Lisossala30,20,20대,Male,103,Singed Scalpel,4.35
+2019-07-01,456,Phaena87,20,20대,Male,124,Venom Claymore,1.29
+2019-07-01,457,Eulae84,25,20대,Male,61,Ragnarok,3.87
+2019-04-01,458,Chamadarnya73,29,20대,Male,166,Thirsty Iron Reaver,3.07
+2019-01-01,459,Eolan54,30,30대,Male,129,"Fate, Vengeance of Eternal Justice",1.54
+2019-06-01,460,Assistasda90,25,20대,Male,103,Singed Scalpel,4.35
+2019-09-01,461,Ennrian78,24,20대,Male,168,"Sun Strike, Jaws of Twisted Visions",1.48
+2019-11-01,462,Undirrasta89,20,20대,Male,144,Blood Infused Guardian,1.94
+2019-07-01,463,Frichadaran88,25,20대,Male,48,"Rage, Legacy of the Lone Victor",2.48
+2019-05-01,464,Rianistast50,22,20대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-12-01,465,Sondastsda82,24,20대,Male,4,Bloodlord's Fetish,1.7
+2019-03-01,466,Undare39,23,20대,Male,112,Worldbreaker,2.6
+2019-03-01,467,Adairialis76,16,청소년,Male,123,Twilight's Carver,2.28
+2019-07-01,468,Aesur96,23,20대,Male,30,Stormcaller,2.21
+2019-02-01,469,Tyialisudeu65,24,20대,Male,148,"Warmonger, Gift of Suffering's End",4.03
+2019-01-01,470,Arirgue63,29,20대,Male,4,Bloodlord's Fetish,1.7
+2019-02-01,471,Sundadarla27,23,20대,Male,122,Unending Tyranny,2.85
+2019-09-01,472,Lisopela58,22,20대,Male,18,"Torchlight, Bond of Storms",4.65
+2019-08-01,473,Eyircil84,21,20대,Male,25,Hero Cane,4.35
+2019-04-01,474,Ina92,31,30대,Male,145,Fiery Glass Crusader,4.58
+2019-03-01,475,Lirtistanya48,24,20대,Male,6,Rusty Skull,3.7
+2019-09-01,476,Marassa62,21,20대,Male,103,Singed Scalpel,4.35
+2019-12-01,477,Mindossa76,41,40대,Male,173,Stormfury Longsword,4.93
+2019-08-01,478,Sondim68,22,20대,Female,35,Heartless Bone Dualblade,3.45
+2019-11-01,479,Chanjaskan89,21,20대,Male,60,Wolf,3.54
+2019-10-01,480,Salilis27,40,40대,Male,59,"Lightning, Etcher of the King",4.23
+2019-06-01,481,Sondossa69,7,소년,Male,179,"Wolf, Promise of the Moonwalker",4.48
+2019-03-01,482,Sundjask71,32,30대,Female,77,"Piety, Guardian of Riddles",4
+2019-02-01,483,Saistyphos30,35,30대,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-10-01,484,Chanosian48,35,30대,Female,39,"Betrayal, Whisper of Grieving Widows",3.94
+2019-02-01,485,Errian63,26,20대,Female,94,Mourning Blade,3.49
+2019-12-01,486,Eurithphos97,9,소년,Male,53,Vengeance Cleaver,2.05
+2019-06-01,487,Raillydeu47,14,청소년,Male,93,Apocalyptic Battlescythe,1.97
+2019-09-01,488,Malon70,23,20대,Male,44,Bonecarvin Battle Axe,2.38
+2019-04-01,489,Jiskimsda56,28,20대,Male,32,Orenmir,1.14
+2019-07-01,490,Idastidru52,24,20대,Male,148,"Warmonger, Gift of Suffering's End",4.03
+2019-04-01,491,Marughi89,22,20대,Male,22,Amnesia,2.18
+2019-05-01,492,Ingatcil75,23,20대,Male,143,Frenzied Scimitar,1.56
+2019-06-01,493,Chanirrasta87,14,청소년,Male,139,"Mercy, Katana of Dismay",4.94
+2019-12-01,494,Alaesu77,30,30대,Male,3,Phantomlight,2.49
+2019-07-01,495,Ermol76,24,20대,Male,97,"Swan Song, Gouger Of Terror",2.5
+2019-11-01,496,Tyeuduen32,23,20대,Male,79,"Alpha, Oath of Zeal",4.05
+2019-09-01,497,Yadacal26,15,청소년,Male,52,Hatred,4.84
+2019-07-01,498,Firon67,35,30대,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-06-01,499,Iadueria43,24,20대,Male,99,"Expiration, Warscythe Of Lost Worlds",1.71
+2019-05-01,500,Pheulidil31,20,20대,Male,100,Blindscythe,3.27
+2019-12-01,501,Eodairu79,32,30대,Male,151,Severance,3.4
+2019-08-01,502,Frichocesta66,20,20대,Male,16,Restored Bauble,3.55
+2019-01-01,503,Iaralsuir44,23,20대,Male,59,"Lightning, Etcher of the King",4.23
+2019-12-01,504,Chamilsala65,23,20대,Female,82,Nirvana,4.9
+2019-05-01,505,Thourdirra92,19,청소년,Male,110,Suspension,1.44
+2019-04-01,506,Chadista79,30,30대,Male,25,Hero Cane,4.35
+2019-12-01,507,Chanastnya43,22,20대,Male,29,"Chaos, Ender of the End",1.98
+2019-09-01,508,Iskim96,16,청소년,Male,7,"Thorn, Satchel of Dark Souls",1.33
+2019-07-01,509,Inguron55,23,20대,Male,117,"Heartstriker, Legacy of the Light",1.79
+2019-10-01,510,Eulolis41,22,20대,Male,162,Abyssal Shard,2.67
+2019-03-01,511,Lassilsala30,21,20대,Male,64,Fusion Pummel,4.82
+2019-07-01,512,Sastydeu50,35,30대,Male,169,"Interrogator, Blood Blade of the Queen",2.18
+2019-07-01,513,Ilaesudil92,25,20대,Male,25,Hero Cane,4.35
+2019-05-01,514,Yasur85,21,20대,Male,21,Souleater,1.1
+2019-03-01,515,Haillyrgue51,7,소년,Male,40,Second Chance,2.52
+2019-02-01,516,Aidain51,39,30대,Female,35,Heartless Bone Dualblade,3.45
+2019-07-01,517,Aerithnuphos61,39,30대,Male,128,"Blazeguard, Reach of Eternity",4.91
+2019-07-01,518,Yalostiphos68,29,20대,Male,160,Azurewrath,4.4
+2019-10-01,519,Eusri70,24,20대,Female,140,Striker,2.94
+2019-12-01,520,Chamjask73,22,20대,Female,109,"Downfall, Scalpel Of The Emperor",4.76
+2019-02-01,521,Phistym51,37,30대,Male,50,Dawn,4.6
+2019-05-01,522,Meosridil82,18,청소년,Male,82,Nirvana,4.9
+2019-10-01,523,Aillyriadru65,24,20대,Male,21,Souleater,1.1
+2019-03-01,524,Sally64,25,20대,Female,46,Hopeless Ebon Dualblade,1.33
+2019-06-01,525,Lirtimst73,24,20대,Male,126,Exiled Mithril Longsword,2
+2019-03-01,526,Ilosia37,23,20대,Male,133,Faith's Scimitar,4.09
+2019-11-01,527,Lisim51,24,20대,Male,102,Avenger,3.44
+2019-07-01,528,Isurria36,22,20대,Female,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-02-01,529,Silaera56,21,20대,Male,142,Righteous Might,2.62
+2019-03-01,530,Leetirraya83,24,20대,Male,5,Putrid Fan,4.08
+2019-10-01,531,Lirtirra81,12,소년,Male,143,Frenzied Scimitar,1.56
+2019-12-01,532,Eryon48,16,청소년,Male,21,Souleater,1.1
+2019-12-01,533,Hada39,19,청소년,Male,48,"Rage, Legacy of the Lone Victor",2.48
+2019-12-01,534,Iana95,10,소년,Male,146,Warped Iron Scimitar,3.1
+2019-02-01,535,Siralsudeu54,20,20대,Male,155,War-Forged Gold Deflector,1.01
+2019-10-01,536,Siallylis44,20,20대,Male,101,Final Critic,4.19
+2019-06-01,537,Sondassan80,25,20대,Male,112,Worldbreaker,2.6
+2019-06-01,538,Chanadar44,25,20대,Male,141,Persuasion,3.19
+2019-07-01,539,Eosurdru76,11,소년,Male,117,"Heartstriker, Legacy of the Light",1.79
+2019-10-01,540,Shidai42,29,20대,Male,7,"Thorn, Satchel of Dark Souls",1.33
+2019-06-01,541,Aesri53,31,30대,Male,161,Devine,1.76
+2019-02-01,542,Syally44,17,청소년,Male,22,Amnesia,2.18
+2019-10-01,543,Idastidru52,24,20대,Male,121,Massacre,1.6
+2019-08-01,544,Ardcil81,34,30대,Male,3,Phantomlight,2.49
+2019-03-01,545,Jiskadarst60,16,청소년,Male,66,Victor Iron Spikes,4.4
+2019-07-01,546,Sondadar26,9,소년,Male,159,"Oathbreaker, Spellblade of Trials",3.08
+2019-09-01,547,Malarrian73,18,청소년,Male,135,Warped Diamond Crusader,1.4
+2019-06-01,548,Yathecal82,20,20대,Female,75,Brutality Ivory Warmace,2.42
+2019-08-01,549,Maluncil97,25,20대,Female,146,Warped Iron Scimitar,3.1
+2019-10-01,550,Ilunyon70,20,20대,Male,60,Wolf,3.54
+2019-11-01,551,Iri67,20,20대,Male,160,Azurewrath,4.4
+2019-03-01,552,Hiaral50,15,청소년,Male,155,War-Forged Gold Deflector,1.01
+2019-06-01,553,Yadam35,28,20대,Male,2,Verdict,2.48
+2019-02-01,554,Dyally87,22,20대,Male,63,Stormfury Mace,4.99
+2019-06-01,555,Pheosurllorin41,23,20대,Female,7,"Thorn, Satchel of Dark Souls",1.33
+2019-04-01,556,Frichocesta66,20,20대,Male,64,Fusion Pummel,4.82
+2019-07-01,557,Frichaya88,42,40대,Male,8,"Purgatory, Gem of Regret",3.93
+2019-12-01,558,Lassadarsda57,25,20대,Female,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-02-01,559,Iasrira89,23,20대,Male,34,Retribution Axe,2.22
+2019-02-01,560,Zontibe81,21,20대,Male,2,Verdict,2.48
+2019-09-01,561,Chanastnya43,22,20대,Male,35,Heartless Bone Dualblade,3.45
+2019-06-01,562,Marynde90,30,30대,Male,83,Lifebender,3.33
+2019-01-01,563,Isri34,38,30대,Male,142,Righteous Might,2.62
+2019-03-01,564,Chamjask73,22,20대,Female,52,Hatred,4.84
+2019-12-01,565,Assastnya25,20,20대,Male,179,"Wolf, Promise of the Moonwalker",4.48
+2019-03-01,566,Ardonmol96,20,20대,Male,31,Trickster,1.55
+2019-02-01,567,Lassirrasda85,20,20대,Male,102,Avenger,3.44
+2019-11-01,568,Syally44,17,청소년,Male,123,Twilight's Carver,2.28
+2019-11-01,569,Baelollodeu94,20,20대,Female,87,"Deluge, Edge of the West",4.43
+2019-08-01,570,Chadossa56,20,20대,Male,69,"Frenzy, Defender of the Harvest",1.98
+2019-12-01,571,Poshilsa82,16,청소년,Male,165,Bone Crushing Silver Skewer,4.86
+2019-02-01,572,Yoishirrala98,17,청소년,Female,145,Fiery Glass Crusader,4.58
+2019-04-01,573,Sundista37,26,20대,Male,156,Soul-Forged Steel Shortsword,1.77
+2019-06-01,574,Undare39,23,20대,Male,131,Fury,1.44
+2019-05-01,575,Sondadar26,9,소년,Male,137,"Aetherius, Boon of the Blessed",3.39
+2019-07-01,576,Ilassa51,20,20대,Male,34,Retribution Axe,2.22
+2019-12-01,577,Filurarn35,19,청소년,Male,128,"Blazeguard, Reach of Eternity",4.91
+2019-11-01,578,Aerithllora36,29,20대,Female,153,Mercenary Sabre,3.74
+2019-03-01,579,Marilsa69,25,20대,Female,12,Dawne,1.02
+2019-03-01,580,Tyida79,24,20대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-03-01,581,Phaestycal84,23,20대,Male,117,"Heartstriker, Legacy of the Light",1.79
+2019-03-01,582,Irilis75,20,20대,Male,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-08-01,583,Aeralstical35,20,20대,Male,49,"The Oculus, Token of Lost Worlds",2.96
+2019-01-01,584,Aelin32,20,20대,Male,115,Spectral Diamond Doomblade,2.04
+2019-06-01,585,Chanirrala39,22,20대,Male,85,Malificent Bag,1.75
+2019-08-01,586,Chanirra79,23,20대,Female,155,War-Forged Gold Deflector,1.01
+2019-11-01,587,Assirra56,22,20대,Male,141,Persuasion,3.19
+2019-08-01,588,Lassadarsda57,25,20대,Female,15,Soul Infused Crystal,2.96
+2019-11-01,589,Seolollo93,30,30대,Male,106,Crying Steel Sickle,3.41
+2019-06-01,590,Iathem87,20,20대,Male,141,Persuasion,3.19
+2019-04-01,591,Iasurriacal29,20,20대,Male,113,Solitude's Reaver,4.07
+2019-08-01,592,Lisast98,22,20대,Male,170,Shadowsteel,3.97
+2019-11-01,593,Lassimla92,25,20대,Male,128,"Blazeguard, Reach of Eternity",4.91
+2019-11-01,594,Filrion59,27,20대,Male,89,"Blazefury, Protector of Delusions",4.64
+2019-04-01,595,Yathedeu43,22,20대,Male,55,Vindictive Glass Edge,2.27
+2019-01-01,596,Seudaillorap38,27,20대,Male,146,Warped Iron Scimitar,3.1
+2019-05-01,597,Quinarap53,15,청소년,Male,86,Stormfury Lantern,2.27
+2019-06-01,598,Halaecal66,22,20대,Male,111,Misery's End,4.89
+2019-01-01,599,Hiaral50,15,청소년,Male,13,Serenity,1.41
+2019-08-01,600,Iskosian40,16,청소년,Male,166,Thirsty Iron Reaver,3.07
+2019-10-01,601,Ilastilis78,11,소년,Male,93,Apocalyptic Battlescythe,1.97
+2019-11-01,602,Seosrim97,20,20대,Male,65,Conqueror Adamantite Mace,4.24
+2019-12-01,603,Lisosia93,25,20대,Male,141,Persuasion,3.19
+2019-03-01,604,Lisim51,24,20대,Male,34,Retribution Axe,2.22
+2019-09-01,605,Farrian71,18,청소년,Male,159,"Oathbreaker, Spellblade of Trials",3.08
+2019-12-01,606,Nitherian58,28,20대,Male,123,Twilight's Carver,2.28
+2019-07-01,607,Rithe53,15,청소년,Female,80,Dreamsong,3.39
+2019-01-01,608,Leyirra83,24,20대,Female,132,Persuasion,3.33
+2019-03-01,609,Lisosia93,25,20대,Male,40,Second Chance,2.52
+2019-04-01,610,Frichossala54,7,소년,Male,159,"Oathbreaker, Spellblade of Trials",3.08
+2019-01-01,611,Chamjaskya75,16,청소년,Male,176,Relentless Iron Skewer,2.84
+2019-06-01,612,Silaera56,21,20대,Male,52,Hatred,4.84
+2019-05-01,613,Quanrion96,21,20대,Female,159,"Oathbreaker, Spellblade of Trials",3.08
+2019-12-01,614,Chadadarla74,30,30대,Male,65,Conqueror Adamantite Mace,4.24
+2019-09-01,615,Sida61,20,20대,Female,72,Winter's Bite,3.77
+2019-04-01,616,Tyaelaelis94,20,20대,Male,78,"Glimmer, Ender of the Moon",4.4
+2019-04-01,617,Chamimla85,16,청소년,Male,40,Second Chance,2.52
+2019-05-01,618,Aisurdru79,29,20대,Female,183,Dragon's Greatsword,1.09
+2019-10-01,619,Quanenrian83,15,청소년,Male,55,Vindictive Glass Edge,2.27
+2019-07-01,620,Undosian34,21,20대,Male,109,"Downfall, Scalpel Of The Emperor",4.76
+2019-05-01,621,Seosrim97,20,20대,Male,26,Unholy Wand,1.12
+2019-04-01,622,Chanirra64,25,20대,Male,129,"Fate, Vengeance of Eternal Justice",1.54
+2019-12-01,623,Iral74,21,20대,Male,114,Yearning Mageblade,3.82
+2019-03-01,624,Marynde90,30,30대,Male,29,"Chaos, Ender of the End",1.98
+2019-07-01,625,Yadaisuir65,20,20대,Male,133,Faith's Scimitar,4.09
+2019-05-01,626,Syathecal44,16,청소년,Male,75,Brutality Ivory Warmace,2.42
+2019-03-01,627,Arin32,25,20대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-12-01,628,Hada39,19,청소년,Male,167,"Malice, Legacy of the Queen",3.61
+2019-03-01,629,Maluncil97,25,20대,Female,107,"Splitter, Foe Of Subtlety",2.18
+2019-12-01,630,Aelaria33,23,20대,Male,171,Scalpel,1.79
+2019-02-01,631,Assassa81,27,20대,Male,137,"Aetherius, Boon of the Blessed",3.39
+2019-06-01,632,Filrion83,17,청소년,Male,160,Azurewrath,4.4
+2019-12-01,633,Chanastnya43,22,20대,Male,80,Dreamsong,3.39
+2019-11-01,634,Eoral49,16,청소년,Male,103,Singed Scalpel,4.35
+2019-02-01,635,Ali84,29,20대,Male,4,Bloodlord's Fetish,1.7
+2019-05-01,636,Chanirrala39,22,20대,Male,78,"Glimmer, Ender of the Moon",4.4
+2019-06-01,637,Airi27,24,20대,Female,163,Thunderfury Scimitar,3.45
+2019-05-01,638,Eurisuru25,24,20대,Male,22,Amnesia,2.18
+2019-06-01,639,Liawista80,27,20대,Male,86,Stormfury Lantern,2.27
+2019-12-01,640,Sausosia74,22,20대,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-07-01,641,Lisirra58,20,20대,Female,49,"The Oculus, Token of Lost Worlds",2.96
+2019-09-01,642,Chamadarsda63,23,20대,Male,127,"Heartseeker, Reaver of Souls",3.92
+2019-09-01,643,Haestyphos66,21,20대,Male,93,Apocalyptic Battlescythe,1.97
+2019-03-01,644,Bartassaya73,26,20대,Male,22,Amnesia,2.18
+2019-07-01,645,Phaedasurap84,17,청소년,Male,114,Yearning Mageblade,3.82
+2019-07-01,646,Mindimnya67,23,20대,Male,116,Renewed Skeletal Katana,4.18
+2019-06-01,647,Chadjask85,24,20대,Male,61,Ragnarok,3.87
+2019-04-01,648,Eustyria89,39,30대,Male,150,Deathraze,2.85
+2019-01-01,649,Iskim66,15,청소년,Male,67,"Celeste, Incarnation of the Corrupted",3.46
+2019-04-01,650,Smaistysu35,30,30대,Male,161,Devine,1.76
+2019-04-01,651,Lirtilsa72,24,20대,Male,132,Persuasion,3.33
+2019-04-01,652,Pheosrinudeu70,20,20대,Male,75,Brutality Ivory Warmace,2.42
+2019-03-01,653,Chamast86,32,30대,Female,53,Vengeance Cleaver,2.05
+2019-04-01,654,Tyialisudeu65,24,20대,Male,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-06-01,655,Lirtassan78,15,청소년,Male,20,Netherbane,3.27
+2019-05-01,656,Ethrasyon38,26,20대,Male,115,Spectral Diamond Doomblade,2.04
+2019-11-01,657,Silaera56,21,20대,Male,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-08-01,658,Quilassa66,7,소년,Female,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-07-01,659,Lisassasda39,36,30대,Male,140,Striker,2.94
+2019-05-01,660,Isri34,38,30대,Male,103,Singed Scalpel,4.35
+2019-12-01,661,Strithenu87,20,20대,Male,60,Wolf,3.54
+2019-06-01,662,Mindilsa60,21,20대,Male,0,Splinter,1.28
+2019-05-01,663,Lalossa38,25,20대,Male,72,Winter's Bite,3.77
+2019-04-01,664,Chamistast30,31,30대,Male,47,"Alpha, Reach of Ending Hope",3.58
+2019-06-01,665,Hariphos58,17,청소년,Male,73,Ritual Mace,2.05
+2019-10-01,666,Assilsan72,20,20대,Female,82,Nirvana,4.9
+2019-03-01,667,Inasuir29,40,40대,Female,66,Victor Iron Spikes,4.4
+2019-11-01,668,Chanilsasda38,15,청소년,Male,40,Second Chance,2.52
+2019-03-01,669,Mindesi74,22,20대,Male,45,Glinting Glass Edge,3.85
+2019-04-01,670,Aiduecal76,20,20대,Male,120,Agatha,3.08
+2019-02-01,671,Caesrinusuir82,30,30대,Male,152,Darkheart,1.74
+2019-12-01,672,Ililsan66,9,소년,Male,122,Unending Tyranny,2.85
+2019-11-01,673,Idacal95,30,30대,Male,130,Alpha,2.07
+2019-02-01,674,Aeral68,43,40대,Male,77,"Piety, Guardian of Riddles",4
+2019-01-01,675,Lirtastsda29,16,청소년,Male,144,Blood Infused Guardian,1.94
+2019-01-01,676,Idastidru52,24,20대,Male,111,Misery's End,4.89
+2019-10-01,677,Tyarithn67,27,20대,Male,32,Orenmir,1.14
+2019-02-01,678,Rarallo90,33,30대,Male,108,"Extraction, Quickblade Of Trembling Hands",3.53
+2019-08-01,679,Iarilis73,10,소년,Male,153,Mercenary Sabre,3.74
+2019-06-01,680,Asty82,25,20대,Male,96,Blood-Forged Skeletal Spine,3.09
+2019-07-01,681,Yalaeria91,33,30대,Male,28,"Flux, Destroyer of Due Diligence",1.06
+2019-12-01,682,Lirtossa60,24,20대,Male,135,Warped Diamond Crusader,1.4
+2019-06-01,683,Ialallo29,15,청소년,Female,145,Fiery Glass Crusader,4.58
+2019-05-01,684,Phaestycal84,23,20대,Male,169,"Interrogator, Blood Blade of the Queen",2.18
+2019-02-01,685,Halaecal66,22,20대,Male,34,Retribution Axe,2.22
+2019-07-01,686,Chadjask77,8,소년,Male,147,"Hellreaver, Heirloom of Inception",4.93
+2019-05-01,687,Ealiril69,35,30대,Male,78,"Glimmer, Ender of the Moon",4.4
+2019-11-01,688,Saistyphos30,35,30대,Male,29,"Chaos, Ender of the End",1.98
+2019-11-01,689,Undjaskla97,33,30대,Male,76,Haunted Bronzed Bludgeon,3.15
+2019-10-01,690,Idaidil28,15,청소년,Male,68,"Storm-Weaver, Slayer of Inception",4.32
+2019-11-01,691,Lirtistanya48,24,20대,Male,112,Worldbreaker,2.6
+2019-07-01,692,Quaecjask96,9,소년,Male,78,"Glimmer, Ender of the Moon",4.4
+2019-08-01,693,Firatan58,23,20대,Male,88,"Emberling, Defender of Delusions",3.75
+2019-08-01,694,Mindesi74,22,20대,Male,164,Exiled Doomblade,1.63
+2019-02-01,695,Lamil79,38,30대,Male,111,Misery's End,4.89
+2019-12-01,696,Yarolwen77,30,30대,Male,87,"Deluge, Edge of the West",4.43
+2019-11-01,697,Tyaelistidru84,19,청소년,Female,1,Crucifer,3.26
+2019-12-01,698,Yarithrin84,30,30대,Female,58,"Freak's Bite, Favor of Holy Might",4.14
+2019-09-01,699,Tyaelly53,17,청소년,Female,130,Alpha,2.07
+2019-05-01,700,Chanosia60,31,30대,Male,90,Betrayer,2.94
+2019-10-01,701,Phiristi62,25,20대,Male,10,Sleepwalker,1.79
+2019-09-01,702,Ililsasya43,19,청소년,Male,12,Dawne,1.02
+2019-03-01,703,Aithelis62,21,20대,Male,160,Azurewrath,4.4
+2019-05-01,704,Undotesta33,18,청소년,Male,95,Singed Onyx Warscythe,4.74
+2019-12-01,705,Aelidru27,22,20대,Male,183,Dragon's Greatsword,1.09
+2019-05-01,706,Chanossanya44,20,20대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-12-01,707,Maradarnya40,20,20대,Male,38,"The Void, Vengeance of Dark Magic",2.37
+2019-07-01,708,Lirtastsya71,21,20대,Male,67,"Celeste, Incarnation of the Corrupted",3.46
+2019-03-01,709,Lisast87,19,청소년,Male,75,Brutality Ivory Warmace,2.42
+2019-04-01,710,Lisossa25,22,20대,Male,99,"Expiration, Warscythe Of Lost Worlds",1.71
+2019-10-01,711,Chadolyla44,20,20대,Male,94,Mourning Blade,3.49
+2019-07-01,712,Lisilsa62,25,20대,Male,92,Final Critic,4.88
+2019-03-01,713,Iasur80,22,20대,Male,46,Hopeless Ebon Dualblade,1.33
+2019-03-01,714,Tyidaim51,16,청소년,Female,103,Singed Scalpel,4.35
+2019-07-01,715,Eusurdeu49,23,20대,Male,8,"Purgatory, Gem of Regret",3.93
+2019-12-01,716,Saena89,23,20대,Male,106,Crying Steel Sickle,3.41
+2019-07-01,717,Chanilsast61,30,30대,Male,177,"Winterthorn, Defender of Shifting Worlds",2.08
+2019-10-01,718,Ilirrasda54,37,30대,Male,20,Netherbane,3.27
+2019-08-01,719,Sundassa93,16,청소년,Male,158,"Darkheart, Butcher of the Champion",2.45
+2019-02-01,720,Aidai73,19,청소년,Male,159,"Oathbreaker, Spellblade of Trials",3.08
+2019-06-01,721,Indirrian56,20,20대,Male,156,Soul-Forged Steel Shortsword,1.77
+2019-04-01,722,Ilarin91,22,20대,Male,92,Final Critic,4.88
+2019-10-01,723,Lisista54,21,20대,Male,177,"Winterthorn, Defender of Shifting Worlds",2.08
+2019-06-01,724,Lisassasta50,25,20대,Male,144,Blood Infused Guardian,1.94
+2019-10-01,725,Malunil62,18,청소년,Male,72,Winter's Bite,3.77
+2019-10-01,726,Iduelis31,23,20대,Male,21,Souleater,1.1
+2019-09-01,727,Yathecal82,20,20대,Female,104,Gladiator's Glaive,1.93
+2019-06-01,728,Chanosiaya39,44,40대,Male,93,Apocalyptic Battlescythe,1.97
+2019-11-01,729,Assylla81,20,20대,Male,74,Yearning Crusher,4.18
+2019-10-01,730,Aidaira26,30,30대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-09-01,731,Eudanu84,22,20대,Female,12,Dawne,1.02
+2019-09-01,732,Eurithphos97,9,소년,Male,97,"Swan Song, Gouger Of Terror",2.5
+2019-01-01,733,Chamiman85,20,20대,Male,66,Victor Iron Spikes,4.4
+2019-02-01,734,Arin32,25,20대,Male,165,Bone Crushing Silver Skewer,4.86
+2019-12-01,735,Leetirraya83,24,20대,Male,54,Eternal Cleaver,2.5
+2019-11-01,736,Tyialisti80,23,20대,Male,58,"Freak's Bite, Favor of Holy Might",4.14
+2019-04-01,737,Marundi65,22,20대,Male,149,"Tranquility, Razor of Black Magic",1.75
+2019-02-01,738,Eusur90,36,30대,Male,121,Massacre,1.6
+2019-10-01,739,Mindirranya33,35,30대,Male,61,Ragnarok,3.87
+2019-08-01,740,Reunasu60,22,20대,Female,127,"Heartseeker, Reaver of Souls",3.92
+2019-10-01,741,Phiallylis33,19,청소년,Male,145,Fiery Glass Crusader,4.58
+2019-05-01,742,Isty55,20,20대,Male,5,Putrid Fan,4.08
+2019-09-01,743,Frichilsa31,15,청소년,Male,110,Suspension,1.44
+2019-12-01,744,Chanastst38,22,20대,Male,94,Mourning Blade,3.49
+2019-04-01,745,Chanista95,39,30대,Male,37,"Shadow Strike, Glory of Ending Hope",3.16
+2019-01-01,746,Aellyria80,23,20대,Male,159,"Oathbreaker, Spellblade of Trials",3.08
+2019-01-01,747,Siarithria38,38,30대,Female,146,Warped Iron Scimitar,3.1
+2019-04-01,748,Rastynusuir31,20,20대,Male,55,Vindictive Glass Edge,2.27
+2019-06-01,749,Chanossanya44,20,20대,Male,53,Vengeance Cleaver,2.05
+2019-03-01,750,Iljask75,22,20대,Male,167,"Malice, Legacy of the Queen",3.61
+2019-02-01,751,Lisjaskan36,11,소년,Male,180,Stormcaller,3.36
+2019-12-01,752,Mindjasksya61,17,청소년,Male,112,Worldbreaker,2.6
+2019-06-01,753,Frichirranya75,36,30대,Male,178,"Oathbreaker, Last Hope of the Breaking Storm",4.23
+2019-10-01,754,Pheosurllorin41,23,20대,Female,79,"Alpha, Oath of Zeal",4.05
+2019-07-01,755,Raesty92,12,소년,Male,76,Haunted Bronzed Bludgeon,3.15
+2019-04-01,756,Ilast79,20,20대,Male,73,Ritual Mace,2.05
+2019-02-01,757,Eratiel90,18,청소년,Male,57,"Despair, Favor of Due Diligence",4.6
+2019-06-01,758,Iral74,21,20대,Male,182,Toothpick,4.03
+2019-06-01,759,Tyaelorap29,25,20대,Male,72,Winter's Bite,3.77
+2019-05-01,760,Aithelis62,21,20대,Male,44,Bonecarvin Battle Axe,2.38
+2019-04-01,761,Assim27,45,40대,Male,17,"Lazarus, Terror of the Earth",1.7
+2019-02-01,762,Asur53,26,20대,Male,110,Suspension,1.44
+2019-01-01,763,Lassilsala30,21,20대,Male,85,Malificent Bag,1.75
+2019-12-01,764,Saedaiphos46,18,청소년,Male,113,Solitude's Reaver,4.07
+2019-05-01,765,Irith83,18,청소년,Male,130,Alpha,2.07
+2019-10-01,766,Aelastirin39,23,20대,Male,58,"Freak's Bite, Favor of Holy Might",4.14
+2019-12-01,767,Ilmol66,8,소년,Female,92,Final Critic,4.88
+2019-04-01,768,Assassasta79,38,30대,Male,92,Final Critic,4.88
+2019-11-01,769,Ilosian36,15,청소년,Male,145,Fiery Glass Crusader,4.58
+2019-03-01,770,Lirtosia63,34,30대,Male,12,Dawne,1.02
+2019-08-01,771,Iskossasda43,16,청소년,Male,25,Hero Cane,4.35
+2019-09-01,772,Asur53,26,20대,Male,136,Ghastly Adamantite Protector,3.58
+2019-10-01,773,Hala31,21,20대,Male,19,"Pursuit, Cudgel of Necromancy",1.02
+2019-02-01,774,Jiskjask80,11,소년,Male,101,Final Critic,4.19
+2019-04-01,775,Aethedru70,21,20대,Female,60,Wolf,3.54
+2019-09-01,776,Iral74,21,20대,Male,164,Exiled Doomblade,1.63
+2019-01-01,777,Yathecal72,20,20대,Male,67,"Celeste, Incarnation of the Corrupted",3.46
+2019-11-01,778,Sisur91,7,소년,Male,101,Final Critic,4.19
+2019-12-01,779,Ennrian78,24,20대,Male,50,Dawn,4.6
